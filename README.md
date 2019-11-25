@@ -13,7 +13,7 @@ https://github.com/coffeestains1908/neuon-hackwknd-cropai/blob/master/NeuonAI_Ha
 #### Prototype apk
 You can download the prototype APK file here: 
 
-https://github.com/coffeestains1908/neuon-hackwknd-cropai/releases/download/rc-0/apk.zip
+https://github.com/coffeestains1908/neuon-hackwknd-cropai/releases/download/rc-0/apk.zip  
 Extract & install  
 
 
