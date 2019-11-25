@@ -1,7 +1,7 @@
 # Centre for Crop Disease Control (CCDC)
 NEUON's submission for HackWknd AgroFest - CCDC
 
-Team Name : Neuon AI
+Team Name : Neuon AI  
 Members: Chang Yang Loong, Sophia Chulif, Heng Kiat Jing, Danish Ezwan
 
 ## Links
