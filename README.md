@@ -30,7 +30,7 @@ There are a few notable outcomes of CropAI:
 
 ## Overall framework
 <p align="center">
-  <img src="overall_framework.png">
+  <img src="overall_framework_v2.png">
   Figure 1
 </p>
 
