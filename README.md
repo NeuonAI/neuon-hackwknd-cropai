@@ -12,6 +12,9 @@ https://github.com/coffeestains1908/neuon-hackwknd-cropai/blob/master/CCDC_propo
 #### Slide
 https://github.com/coffeestains1908/neuon-hackwknd-cropai/blob/master/CCDC_slides.pdf
 
+#### Video Pitch (6.03 minutes including demo)
+https://youtu.be/8Cp0_5cuFKU
+
 #### Prototype apk
 You can download the prototype APK file here: 
 
