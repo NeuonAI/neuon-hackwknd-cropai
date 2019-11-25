@@ -3,16 +3,18 @@ NEUON's submission for HackWknd AgroFest - CropAI
 
 Members: Chang Yang Loong, Sophia Chulif, Heng Kiat Jing, Danish Ezwan
 
-You can download the APK file here: 
+## Links
+
+#### Project Proposal
+
+#### Slide
+
+#### Prototype apk
+You can download the prototype APK file here: 
 
 https://github.com/coffeestains1908/neuon-hackwknd-cropai/releases/download/rc-0/apk.zip
+Extract & install  
 
-
-Extract & install
-
-## Project Proposal
-Proposal :   
-Slide: 
 
 ## Project Description
 Crop diseases impose a negative impact on the yield of crops and consequently lead to economic damage.
