@@ -10,6 +10,10 @@ https://github.com/coffeestains1908/neuon-hackwknd-cropai/releases/download/rc-0
 
 Extract & install
 
+## Project Proposal
+Proposal :   
+Slide: 
+
 ## Project Description
 Crop diseases impose a negative impact on the yield of crops and consequently lead to economic damage.
 Human expertise such as plant pathologist are not always available in rural farms to detect the disease before the outbreak and spreading.
@@ -30,8 +34,31 @@ There are a few notable outcomes of CropAI:
 
 ## Overall framework
 <p align="center">
-  <img src="overall_framework_v2.png">
+  <img src="overall_framework_v2.png"><br />
   Figure 1
+</p>
+
+## Project Prototype / Proof of Concept (POC)
+In our POC, we choose tomato as our subject and develop an AI model to predict their disease. There are 9 diseases plus a healthy class is used to train an AI to distinguise between different disease. The result is as shown below (Table 1):
+<p align="center">
+  <img src="quantitative_result.png" width="600"><br />
+  Table 1
+</p>
+
+More result details can be found in our project proposal.
+
+### Android App
+A simple app is developd to use the model trained on mobile phone, the result are shown below. The app can be downloaded via link provided at beginnig of this page.
+<p align="center">
+  <img src="cropAi_android.png"><br />
+  Figure 2
+</p>
+
+### PC GUI
+Similar user interface is also created to utilize the AI model trained.
+<p align="center">
+  <img src="cropAI_PC.png"><br />
+  Figure 3
 </p>
 
 ## About us
