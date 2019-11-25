@@ -39,7 +39,7 @@ There are a few notable outcomes of CCDC:
 
 ## Overall framework
 <p align="center">
-  <img src="overall_framework_v2.png"><br />
+  <img src="ccdc_workflow_v2.png"><br />
   Figure 1
 </p>
 
