@@ -24,7 +24,7 @@ Crop diseases impose a negative impact on the yield of crops and consequently le
 Human expertise such as plant pathologist are not always available in rural farms to detect the disease before the outbreak and spreading.
 With the advancement of machine learning especially deep learning in visual recognition, there has been various successful cases where human expert knowledge can be transferred to the machine for assistant in visual recognition including plant diseases.
 However, the direct adoption of such technology would raise new problems:
-1. Existing plant disease data are not region invariant
+1. Existing plant disease data is not region invariant
 2. Data required for deep learning task is large
 3. Data needs to be diverse in terms of capturing condition, disease stages and image quality
  
@@ -35,6 +35,7 @@ There are a few notable outcomes of CCDC:
 2. Reduce the cost of data collection by crowdsourcing the community.
 3. Farmers would be benefited by this system in early detection of crop disease to ensure quality yield at the same time maintain production quantity.
 4. The related agriculture authority could detect and control disease outbreak within the community.
+5. Light-weight and independent AI model for offline disease detection.
 
 
 ## Overall framework
