@@ -8,6 +8,7 @@ Members: Chang Yang Loong, Sophia Chulif, Heng Kiat Jing, Danish Ezwan
 #### Project Proposal
 
 #### Slide
+https://github.com/coffeestains1908/neuon-hackwknd-cropai/blob/master/NeuonAI_HackWknd19.pdf
 
 #### Prototype apk
 You can download the prototype APK file here: 
