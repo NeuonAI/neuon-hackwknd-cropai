@@ -57,7 +57,7 @@ In our POC, we choose tomato as our subject and develop an AI model to predict t
 More result details can be found in our [project proposal](https://github.com/coffeestains1908/neuon-hackwknd-cropai#project-proposal).
 
 ### Android App
-A simple app is developd to use the model trained on mobile phone, the result are shown below. The app can be downloaded via link provided at [beginnig of this page](https://github.com/coffeestains1908/neuon-hackwknd-cropai/blob/master/README.md#prototype-apk).
+A simple app is developd to use the model trained on mobile phone, the result are shown below. The app can be downloaded via link provided at [beginning of this page](https://github.com/coffeestains1908/neuon-hackwknd-cropai/blob/master/README.md#prototype-apk).
 <p align="center">
   <img src="cropAi_android.png"><br />
   Figure 2
