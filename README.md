@@ -10,7 +10,7 @@ Members: Chang Yang Loong, Sophia Chulif, Heng Kiat Jing, Danish Ezwan
 https://github.com/coffeestains1908/neuon-hackwknd-cropai/blob/master/CCDC_proposal.pdf
 
 #### Slide
-https://github.com/coffeestains1908/neuon-hackwknd-cropai/blob/master/CCDC_slides.pdf
+https://github.com/coffeestains1908/neuon-hackwknd-cropai/blob/master/NeuonAI_HackWknd19_v2.pdf
 
 #### Video Pitch (6.03 minutes including demo)
 https://youtu.be/8Cp0_5cuFKU
