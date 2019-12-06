@@ -1,4 +1,6 @@
 # Centre for Crop Disease Control (CCDC)
+We had been selected as **Top 10** teams to showcase our idea in AgroFest 2019 HackWnkd at 29 November 2019!
+
 NEUON's submission for HackWknd AgroFest - CCDC
 
 Team Name : Neuon AI  
